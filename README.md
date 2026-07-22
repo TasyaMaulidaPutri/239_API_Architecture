@@ -10,7 +10,6 @@
 
 <img width="781" height="498" alt="image" src="https://github.com/user-attachments/assets/7c7d2f3b-9f1f-4ea6-abf1-fe0df150becc" />
 
-**DELETE:
-**
+**DELETE:**
 
 <img width="785" height="499" alt="image" src="https://github.com/user-attachments/assets/bb4b63da-c638-4552-afcf-7ade97db9667" />
